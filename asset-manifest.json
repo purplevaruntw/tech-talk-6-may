@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.abd64e84.css",
-    "main.js": "/static/js/main.d9e2b4cc.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "index.html": "/index.html",
-    "main.abd64e84.css.map": "/static/css/main.abd64e84.css.map",
-    "main.d9e2b4cc.js.map": "/static/js/main.d9e2b4cc.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/tech-talk-6-may/static/css/main.abd64e84.css",
+    "main.js": "/tech-talk-6-may/static/js/main.90d34d10.js",
+    "static/js/787.cda612ba.chunk.js": "/tech-talk-6-may/static/js/787.cda612ba.chunk.js",
+    "index.html": "/tech-talk-6-may/index.html",
+    "main.abd64e84.css.map": "/tech-talk-6-may/static/css/main.abd64e84.css.map",
+    "main.90d34d10.js.map": "/tech-talk-6-may/static/js/main.90d34d10.js.map",
+    "787.cda612ba.chunk.js.map": "/tech-talk-6-may/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.d9e2b4cc.js"
+    "static/js/main.90d34d10.js"
   ]
 }
